@@ -1,0 +1,3 @@
+apply,hostnum,hostnumsub,vmname,ip1,datastore,template,esxi,pg,gw1,cpu,mem,ip2,real_ip2,subnet2,real_subnet2,gw2,real_gw2,secondpg,screens,logininfo,copy_from,copy_to,comment,total
+TRUE,6,2,vi_oper_00,192.168.0.70,datastore6_2,,192.168.0.106,VM Network_6,1.1.1.1,1,4,1.1.1.1,1.1.1.1,1.1.1.1,1.1.1.1,1.1.1.1,1.1.1.1,public_6,4602;4603,,,,,
+TRUE,6,2,vi_oper_01,192.168.0.71,datastore6_2,,192.168.0.106,VM Network_6,1.1.1.1,1,4,10.10.20.61,,10.10.20.192,255.255.255.192,10.10.20.62,121.165.211.62,public_6,4602,,,,,

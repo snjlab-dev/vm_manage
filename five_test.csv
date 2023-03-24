@@ -1,0 +1,10 @@
+apply,hostnum,hostnumsub,vmname,ip1,datastore,template,esxi,pg,gw1,cpu,mem,ip2,,subnet2,real_subnet,gw2,,secondpg,copy_from,copy_to
+TRUE,4,,five_test_00,192.168.0.80,datastore4,sworm_oper_template,192.168.0.104,VM Network_4,192.168.0.1,1,4,1,,,,1,,public_4,,
+TRUE,4,,five_test_01,192.168.0.81,datastore4,sworm_oper_template,192.168.0.104,VM Network_4,192.168.0.1,1,4,1,,,,1,,public_4,,
+TRUE,4,,five_test_02,192.168.0.82,datastore4,sworm_oper_template,192.168.0.104,VM Network_4,192.168.0.1,1,4,1,,,,1,,public_4,,
+TRUE,4,,five_test_03,192.168.0.83,datastore4,sworm_oper_template,192.168.0.104,VM Network_4,192.168.0.1,1,4,1,,,,1,,public_4,,
+TRUE,4,,five_test_04,192.168.0.84,datastore4,sworm_oper_template,192.168.0.104,VM Network_4,192.168.0.1,1,4,1,,,,1,,public_4,,
+TRUE,4,,five_test_05,192.168.0.85,datastore4,sworm_oper_template,192.168.0.104,VM Network_4,192.168.0.1,1,4,1,,,,1,,public_4,,
+TRUE,4,,five_test_06,192.168.0.86,datastore4,sworm_oper_template,192.168.0.104,VM Network_4,192.168.0.1,1,4,1,,,,1,,public_4,,
+,4,,five_test_07,192.168.0.87,datastore4,sworm_oper_template,192.168.0.104,VM Network_4,192.168.0.1,1,4,1,,,,1,,public_4,,
+,4,,five_test_08,192.168.0.88,datastore4,sworm_oper_template,192.168.0.104,VM Network_4,192.168.0.1,1,4,1,,,,1,,public_4,,

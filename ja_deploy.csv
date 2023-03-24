@@ -1,0 +1,8 @@
+apply,hostnum,hostnumsub,vmname,ip1,datastore,template,esxi,pg,gw,cpu,mem,ip2,gw2,secondpg
+TRUE,3,,2_kyobo_bak,192.168.0.87,datastore3,1_kyobo,192.168.0.103,VM Network_3,192.168.0.0,1,4,218.153.178.194,218.153.178.222,public_3
+TRUE,1,,3_nh,192.168.0.88,datastore1,1_kyobo,192.168.0.101,VM Network_1,192.168.0.0,2,6,218.153.178.195,218.153.178.222,public_1
+TRUE,3,,4_nh_bak,192.168.0.89,datastore3,1_kyobo,192.168.0.103,VM Network_3,192.168.0.0,1,4,218.153.178.196,218.153.178.222,public_3
+TRUE,1,,5_hana,192.168.0.90,datastore1,1_kyobo,192.168.0.101,VM Network_1,192.168.0.0,2,6,218.153.178.197,218.153.178.222,public_1
+TRUE,3,,6_hana_bak,192.168.0.91,datastore3,1_kyobo,192.168.0.103,VM Network_3,192.168.0.0,1,4,218.153.178.198,218.153.178.222,public_3
+TRUE,3,,7_hantu,192.168.0.92,datastore3,1_kyobo,192.168.0.103,VM Network_3,192.168.0.0,2,6,218.153.178.199,218.153.178.222,public_3
+TRUE,3,,8_hantu_bak,192.168.0.93,datastore3,1_kyobo,192.168.0.103,VM Network_3,192.168.0.0,1,4,218.153.178.200,218.153.178.222,public_3

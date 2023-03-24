@@ -1,0 +1,9 @@
+﻿apply,hostnum,hostnumsub,vmname,ip1,datastore,template,esxi,pg,subnet1,gw1,cpu,mem,ip2,real_ip2,subnet2,real_subnet2,gw2,real_gw2,secondpg,screens,logininfo,copy_from,copy_to,comment,totalComment
+TRUE,2,,sworm_backup_00,172.31.1.9,datastore2,sworm_backup_00,192.168.10.102,VM Network_2,172.31.0.1,,2,4,,,,,,,,9800,교보,,,백업,
+TRUE,2,,sworm_backup_01,172.31.2.9,datastore2,sworm_backup_00,192.168.10.102,VM Network_2,172.31.0.1,,2,4,,,,,,,,9800,하나,,,,
+TRUE,2,,sworm_backup_02,172.31.3.9,datastore2,sworm_backup_00,192.168.10.102,VM Network_2,172.31.0.1,,2,4,,,,,,,,9800,한투,,,,
+TRUE,2,,sworm_backup_03,172.31.4.9,datastore2,sworm_backup_00,192.168.10.102,VM Network_2,172.31.0.1,,2,4,,,,,,,,9800,유안타,,,,
+TRUE,2,,sjhgood_backup_00,172.31.11.9,datastore2,sworm_backup_00,192.168.10.102,VM Network_2,172.31.0.1,,2,4,,,,,,,,9800,교보,,,백업개인,
+TRUE,2,,sjhgood_backup_01,172.31.12.9,datastore2,sworm_backup_00,192.168.10.102,VM Network_2,172.31.0.1,,2,4,,,,,,,,9800,하나,,,,
+TRUE,2,,sjhgood_backup_02,172.31.13.9,datastore2,sworm_backup_00,192.168.10.102,VM Network_2,172.31.0.1,,2,4,,,,,,,,9800,한투,,,,
+TRUE,2,,sjhgood_backup_03,172.31.14.9,datastore2,sworm_backup_00,192.168.10.102,VM Network_2,172.31.0.1,,2,4,,,,,,,,9800,유안타,,,,
